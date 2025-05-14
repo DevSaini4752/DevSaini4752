@@ -2,13 +2,13 @@
 
 **A focused, self-driven Python learner building my foundation with discipline, not hype.**
 
-I'm currently a 10th-grade student, but I don't let that define or limit me. Instead of chasing grades or hollow titles, I invest my time in mastering real skills and solving real problems through code. I'm a proud nerd—selective, curious, and unapologetically productive. I had starting learning coding and skill development in mid 9th class.
+I'm currently a 10th-grade student, but I don't let that define or limit me. Instead of chasing grades or hollow titles, I invest my time mastering real skills and solving real problems through code. I'm a proud nerd—selective, curious, and unapologetically productive. I started learning coding and skill development in the mid-9th class.
 
 ## What I'm Working On
 
-- Learning **Python** in depth (functions, OOP, decorators, closures, etc.
+- Learning **Python** in depth (functions, OOP, decorators, closures, etc.)
 - Exploring **Git & GitHub** to document and version my work professionally.
-- Skills necessary for my career
+- Skills necessary for my career (Ai, ML, etc)
 
 ## Projects I've Built So Far
 
@@ -18,13 +18,13 @@ Here’s a glimpse of my learning journey through projects—each one stepping u
   A classic Python game using logic and conditionals. Helped build my base in loops, conditions, and user interaction.
 
 - **PersonalBot** & **PersonalBotTurbo**  
-  Early-stage CLI-based bots using basic Python. These bots weren’t smart—but they were mine. Helped me understand how to take user input, respond through options, and structure a mini script.
+  Early-stage CLI-based bots using basic Python. These bots weren’t smart, but they were mine. Helped me understand how to take user input, respond through options, and structure a mini script.
 
 - **MorseCoderDecoder**  
   Converts text into Morse code and vice versa. Taught me about dictionaries, character manipulation, and string handling.
 
 - **Guess The Number**  
-  Simple game with randomized logic. Reinforced concepts like loops, conditions, and user experience flow.
+  Simple game with randomised logic. Reinforced concepts like loops, conditions, and user experience flow.
 
 - **BakeryCounter Software**  
   A mini retail counter system built for a fictional bakery. Helped me simulate real-world billing and flow control.
