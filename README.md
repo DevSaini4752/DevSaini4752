@@ -10,28 +10,22 @@ I'm currently a 10th-grade student, but I don't let that define or limit me. Ins
 - Exploring **Git & GitHub** to document and version my work professionally.
 - Skills necessary for my career (Ai, ML, etc)
 
-## Projects I've Built So Far
+## My Best Projects So Far
 
 Here’s a glimpse of my learning journey through projects—each one stepping up my skills, logic, and mindset:
 
-- **SnakeWaterGun Game (Python)**  
-  A classic Python game using logic and conditionals. Helped build my base in loops, conditions, and user interaction.
+- **ToDoManager Productivity. Gamified**  
+  A clean, no-fluff task manager with a point-based system to reward or penalise user behaviour based on task outcomes and deadlines. Smart features. Serious discipline.
 
-- **PersonalBot** & **PersonalBotTurbo**  
-  Early-stage CLI-based bots using basic Python. These bots weren’t smart, but they were mine. Helped me understand how to take user input, respond through options, and structure a mini script.
+- **Enigma 3.0 (Version of Enigma series)**  
+  A powerful file encryption-decryption toolkit built from scratch using advanced logic rules, character analysis, and a fully modular Python architecture, inspired by wartime cipher machines, built for modern digital protection.
 
-- **MorseCoderDecoder**  
-  Converts text into Morse code and vice versa. Taught me about dictionaries, character manipulation, and string handling.
-
-- **Guess The Number**  
-  Simple game with randomised logic. Reinforced concepts like loops, conditions, and user experience flow.
-
-- **BakeryCounter Software**  
-  A mini retail counter system built for a fictional bakery. Helped me simulate real-world billing and flow control.
+- **Nexus: Productivity Enigne** (Under devlopment)  
+   A powerhouse ecosystem combining task tracking, personalised news, weather updates, stock and currency data, smart emails news, and a user account system - all stitched together into a seamless python driven suite.
 
 ---
 
-### Enigma Series – My Encryption Playground
+### Enigma Series – My Encryption Playground (My all time best so far)
 
 A personal mission to build a strong, evolving encryption system using Python.
 
@@ -56,7 +50,7 @@ Each project isn’t just a code file—it’s a **milestone** in my journey of 
 
 ## My Goals
 
-- Learn C, C++, AI, ML and skills which are necessary for my career
+- Learn Python, C, C++, AI, ML and skills which are necessary for my career
 - Become a **high-level Software Engineer**
 - Achieve **financial freedom** through skills and consistency
 - Earn a **1 Cr/yr job** with proof of work, not just a piece of paper
